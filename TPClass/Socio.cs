@@ -7,13 +7,13 @@ namespace TPClass
     class Socio
     {
         private string usuario;
-        public string nombre;
-        public string apellido;
-        public string clave;
-        public string sexo;
-        public int edad;
-        public double peso;
-        public double altura;
+        private string nombre;
+        private string apellido;
+        private string clave;
+        private string sexo;
+        private int edad;
+        private double peso;
+        private double altura;
 
         // Constructor
         public Socio(string usuario, string nombre, string apellido, string clave, string sexo, int edad, double peso, double altura)
