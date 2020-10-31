@@ -6,6 +6,7 @@ namespace TPClass
 {
     class Clase
     {
+        
         private string nombre;
         private int esfuerzo;
         private string url;
